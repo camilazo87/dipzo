@@ -1,0 +1,39 @@
+/*--------------------------------HEADER-------------------------------*/
+
+#menu-main-menu li a{
+	font-size: 12px;
+    color: #9C9B9B;
+	padding: 50px 4px !important;
+}
+
+.site-header .widget-area {
+    width: 84%;
+}
+
+.header-image .site-title > a {
+    background-position: left !important;
+    width: 90%;
+    min-height: 113px;
+}
+.site-header > .wrap {
+    padding: 0px !important;
+}
+
+.genesis-nav-menu {
+    text-align: right;
+}
+.header-image .title-area {
+       max-width: 16%;
+}
+.site-header {
+    margin: 0px;
+    padding: 0px 9%;
+}
+.fa-user{
+	text-shadow: -7px 1px #E5332A;
+    font-size: 17px !important;
+    margin: 0px 4px;
+}
+.fa-search{
+	font-size: 17px !important;
+}
